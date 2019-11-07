@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 
+
 import learning.shinesdev.mymovies.adapter.ListViewMoviesAdapter;
 import learning.shinesdev.mymovies.model.Movie;
 import learning.shinesdev.mymovies.model.MoviesData;
